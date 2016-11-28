@@ -1,6 +1,7 @@
-# Зміст 
+# Summary
 
-1. [Передмова](peredmova.md) 
+* [Зміст](README.md)
+* [Передмова](peredmova.md)
 * [Вступне слово](vstup.md)
 * [Еволюція явища корупції: історичний ракурс](evolucia_yavischa_korupcyy_storychnyu_rakurs.md)
 * [Визначення терміну «корупція»](vyznachenya_termynu_korupcyya.md)
